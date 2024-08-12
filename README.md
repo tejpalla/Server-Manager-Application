@@ -50,8 +50,5 @@ Use the intuitive interface to manage server resources, view details, and perfor
 Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any bugs or enhancements.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Contact
 For any questions or feedback, please reach out to pallatej7@gmail.com.
